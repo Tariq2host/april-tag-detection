@@ -2,6 +2,9 @@
 
 This project focuses on visual tag recognition using computer vision techniques. It involves detecting and recognizing tags in images using the AprilTag library and OpenCV. The project is divided into two parts: data preprocessing and building a neural network for tag recognition.
 
+![image](https://github.com/Tariq2host/april-tag-detection/assets/93190505/ef5123fa-ce2c-487b-af78-11fc946355d3)
+
+
 ## Part 1: Data Preprocessing
 
 In the first part, the following steps are performed:
